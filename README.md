@@ -24,4 +24,5 @@ This study highlights the need for standardized phenotypic definitions and rigor
 ## Repository Contents
 - **Code**: Scripts for preprocessing, LDSC analysis, and visualization. (The script for LDSC is derived from the widely used repository: [ldsc](https://github.com/bulik/ldsc))
 - **Data**: The data used for this project is a bit large so it's not included in this repository but here is a link to it "HP.sex.combined.GWAS.tsv.gz": [Zenodo](https://zenodo.org/records/7897038)
+- **Log**: Log files that record the exact outputs from running the LDSC.
 
